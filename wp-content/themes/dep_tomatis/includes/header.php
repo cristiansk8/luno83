@@ -2,9 +2,11 @@
 <html class="no-js">
 <head>
 	<title><?php wp_title('•', true, 'right'); bloginfo('name'); ?></title>
+	<link rel="icon" type="image/png" href="https://edificiouno83.com/wp-content/uploads/2019/08/logo-uno83.png" />
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
   	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 	<?php wp_head(); ?>
 </head>
 
@@ -16,7 +18,7 @@
 </div>
 <![endif]-->
 
-<nav class="navbar navbar-default navbar-static-top">
+<!--<nav class="navbar navbar-default navbar-static-top">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
@@ -50,12 +52,12 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container -->
 </nav>
-  
+
 <!--
 Site Title
 ==========
-If you are displaying your site title in the "brand" link in the Bootstrap navbar, 
-then you probably don't require a site title. Alternatively you can use the example below. 
+If you are displaying your site title in the "brand" link in the Bootstrap navbar,
+then you probably don't require a site title. Alternatively you can use the example below.
 See also the accompanying CSS example in css/bst.css .
 
 <div class="container">
