@@ -1,5 +1,5 @@
 <section id="ubicacion">
-  <div class="ubicacion">
+  <div class="container-fluid ubicacion">
     <div class="row">
       <div class="col-md-8 bl-mapa">
         <img src="https://depura-creatividad.com/landinguno83/wp-content/uploads/2019/08/mapa-uno83.png" alt="" width="100%" height="auto">
@@ -15,11 +15,11 @@
             </div>
             <div class="redes">
               <div class="insta">
-                <img src="https://depura-creatividad.com/landinguno83/wp-content/uploads/2019/08/instagram.png" alt="" width="30px" height="auto">
+                <img src="https://depura-creatividad.com/landinguno83/wp-content/uploads/2019/08/instagram.png" alt="" width="30px" height="30px">
                 <p>/edificiouno83</p>
               </div>
               <div class="face">
-                <img src="https://depura-creatividad.com/landinguno83/wp-content/uploads/2019/08/facebook.png" alt="" width="30px" height="auto">
+                <img src="https://depura-creatividad.com/landinguno83/wp-content/uploads/2019/08/facebook.png" alt="" width="30px" height="30px">
                 <p>/edificiouno83</p>
               </div>
             </div>

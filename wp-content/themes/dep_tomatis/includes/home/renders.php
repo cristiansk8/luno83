@@ -1,5 +1,5 @@
 <section id="renders">
-    <div class="renders">
+    <div class="container-fluid renders">
     <div class="row">
       <div class="col-md-4 info-renders">
         <img src="https://edificiouno83.com/wp-content/uploads/2019/08/tu-estilo.png" alt="" width="100%" height="auto">

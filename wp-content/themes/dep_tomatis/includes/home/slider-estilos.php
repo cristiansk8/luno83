@@ -2,7 +2,7 @@
 <section id="slider-estilos">
   <div class="slider-estilos">
 
-    <div class="slide-general" style="background-image:url(http://depura-creatividad.com/landinguno83/wp-content/uploads/2019/08/fondo6.jpg)">
+    <div class="row slide-general" style="background-image:url(http://depura-creatividad.com/landinguno83/wp-content/uploads/2019/08/fondo6.jpg)">
       <div class="col-md-6 plano">
         <img src="https://depura-creatividad.com/landinguno83/wp-content/uploads/2019/08/Landing-183-15agosto-19.png" alt="" width="80%" height="auto">
       </div>

@@ -10,14 +10,14 @@ function bst_enqueues() {
   	wp_register_style('bst-css', get_template_directory_uri() . '/css/bst.css', false, null);
 	wp_enqueue_style('bst-css');
 
-	wp_register_style('home-css', get_template_directory_uri() . '/css/home.css', false, null);
-wp_enqueue_style('home-css');
-
 wp_register_style('slick-css', get_template_directory_uri() . '/css/slick-theme.css', false, null);
 wp_enqueue_style('slick-css');
 
 wp_register_style('slick2-css', get_template_directory_uri() . '/css/slick.css', false, null);
 wp_enqueue_style('slick2-css');
+
+wp_register_style('home-css', get_template_directory_uri() . '/css/home.css', false, null);
+wp_enqueue_style('home-css');
 
 	/* Scripts */
 
