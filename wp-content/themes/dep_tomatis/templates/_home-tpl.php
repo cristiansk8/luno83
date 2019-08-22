@@ -16,4 +16,6 @@
 
 		get_template_part('includes/home/ubicacion');
 
+		//get_template_part('includes/home/mantenimiento');
+
 	get_template_part('includes/footer');

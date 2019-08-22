@@ -15,11 +15,11 @@
             </div>
             <div class="redes">
               <div class="insta">
-                <img src="https://depura-creatividad.com/landinguno83/wp-content/uploads/2019/08/instagram.png" alt="" width="30px" height="30px">
+                <img src="https://depura-creatividad.com/landinguno83/wp-content/uploads/2019/08/instagram.png" alt="" width="45px" height="auto">
                 <p>/edificiouno83</p>
               </div>
               <div class="face">
-                <img src="https://depura-creatividad.com/landinguno83/wp-content/uploads/2019/08/facebook.png" alt="" width="30px" height="30px">
+                <img src="https://depura-creatividad.com/landinguno83/wp-content/uploads/2019/08/facebook.png" alt="" width="45px" height="auto">
                 <p>/edificiouno83</p>
               </div>
             </div>

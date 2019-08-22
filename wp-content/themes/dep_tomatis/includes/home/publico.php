@@ -11,7 +11,7 @@
         <u>deportistas</u>
   		</div>
   		<div class="col-md-1 publico">
-  		  <u>trabajo en casa</u>
+  		  <u>home office</u>
   		</div>
   		<div class="col-md-1 publico">
   			<u>mascotas</u>
@@ -26,7 +26,7 @@
   			<u>músico</u>
   		</div>
   		<div class="col-md-1 publico">
-  			<u>oficina en casa</u>
+  			<u>El espacio de todos</u>
   		</div>
   		<div class="col-md-2 publico">
 

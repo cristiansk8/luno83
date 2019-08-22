@@ -91,13 +91,8 @@ src: url("https://edificiouno83.com/wp-content/themes/dep_tomatis/fonts/Montserr
   display: inline-flex;
 }
 .redes{
-  display: inline-flex;
-}
-.insta{
-  display: flex;
-}
-.face{
-  display: flex;
+  color: #37277d;
+  font-family: Montserrat-bold;
 }
 .logo{
   padding-top: 3%;
