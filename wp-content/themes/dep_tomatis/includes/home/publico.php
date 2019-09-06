@@ -5,28 +5,28 @@
 
   		</div>
   		<div class="col-md-1 publico">
-        <u>familia</u>
+      <a href="#familia"><u>familia</u></a>
   		</div>
   		<div class="col-md-1 publico">
-        <u>deportistas</u>
+        <a href="#deportistas"><u>deportistas</u></a>
   		</div>
   		<div class="col-md-1 publico">
-  		  <u>home office</u>
+  		  <a href="#home-office"><u>home office</u></a>
   		</div>
   		<div class="col-md-1 publico">
-  			<u>mascotas</u>
+  			<a href="#mascotas"><u>mascotas</u></a>
   		</div>
   		<div class="col-md-1 publico">
-  			<u>influencer</u>
+  			<a href="#influencer"><u>influencer</u></a>
   		</div>
   		<div class="col-md-1 publico">
-  			<u>moda</u>
+  			<a href="#moda"><u>moda</u></a>
   		</div>
   		<div class="col-md-1 publico">
-  			<u>músico</u>
+  			<a href="#musico"><u>músico</u></a>
   		</div>
   		<div class="col-md-1 publico">
-  			<u>El espacio de todos</u>
+  			<a href="#todos"><u>El espacio de todos</u></a>
   		</div>
   		<div class="col-md-2 publico">
 
